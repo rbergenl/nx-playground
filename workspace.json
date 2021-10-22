@@ -2,6 +2,7 @@
   "version": 2,
   "projects": {
     "chat-app": "apps/chat-app",
-    "chat-app-e2e": "apps/chat-app-e2e"
+    "chat-app-e2e": "apps/chat-app-e2e",
+    "nestjs-kafka": "apps/nestjs-kafka"
   }
 }
